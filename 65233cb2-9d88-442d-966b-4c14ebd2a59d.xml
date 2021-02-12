@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameXML>IDZ.xml</GameXML>
+  <ModName>Remove DVD Drive check</ModName>
+  <Creator>nzgamer41</Creator>
+  <GUID>65233cb2-9d88-442d-966b-4c14ebd2a59d</GUID>
+  <Description>Removes the check in amdaemon for a DVD Drive, no error 0919 with a DVD drive in your system.
+</Description>
+</ModData>
