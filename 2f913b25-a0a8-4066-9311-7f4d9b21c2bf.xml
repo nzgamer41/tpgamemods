@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameXML>ID8.xml</GameXML>
+  <ModName>Enable Fullscreen</ModName>
+  <Creator>nzgamer41</Creator>
+  <GUID>2f913b25-a0a8-4066-9311-7f4d9b21c2bf</GUID>
+  <Description>Modifies initialD.ini to set FullScreen to 1 (example for mod creation video)
+</Description>
+</ModData>
