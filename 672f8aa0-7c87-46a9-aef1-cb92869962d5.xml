@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameXML>ID8.xml</GameXML>
+  <ModName>English mod</ModName>
+  <Creator>tattoohanz</Creator>
+  <GUID>672f8aa0-7c87-46a9-aef1-cb92869962d5</GUID>
+  <Description>English translation for ID8 story mode,TA,IN-Store Battle,game menus
+if you want to support me:   https://ko-fi.com/t2hanz
+</Description>
+</ModData>
