@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameXML>ID8.xml</GameXML>
+  <ModName>English Translation</ModName>
+  <Creator>Tattoohanz</Creator>
+  <GUID>793482d9-40b1-4fb0-b00d-02f4111825f1</GUID>
+  <Description>YOU MUST HAVE ACROBATA.XAF EXTRACTED, EITHER BY USING NEZARN'S IDAS MODDING TOOLS OR BY COPYING THE ACROBATA FOLDER FROM INITIAL D ZERO V1.31'S data FOLDER
+English translation for ID8 story mode,TA,IN-Store Battle,game menus
+If you want to support me:   https://ko-fi.com/t2hanz
+</Description>
+</ModData>
