@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameXML>BattleGear4Tuned.xml</GameXML>
+  <ModName>Remove shifter error during transmission selection</ModName>
+  <Creator>Boomslangnz</Creator>
+  <GUID>1b901bf6-a746-402d-aa24-04192d86e529</GUID>
+  <Description>Will remove the red cross over shifter selection when choosing transmission
+</Description>
+</ModData>
