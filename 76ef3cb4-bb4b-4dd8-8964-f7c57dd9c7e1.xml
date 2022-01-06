@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameXML>VF5Esports.xml</GameXML>
+  <ModName>English Patch</ModName>
+  <Creator>tattoohanz</Creator>
+  <GUID>76ef3cb4-bb4b-4dd8-8964-f7c57dd9c7e1</GUID>
+  <Description>English patch for single player(offline mode)
+</Description>
+</ModData>
